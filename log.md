@@ -15,4 +15,8 @@ Started learning the basics of test driven development in rails with rspec and c
 
 **Today's progress:**
 Followed this 1st [tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-rspec),2nd [tutorial](https://www.relishapp.com/rspec/rspec-rails/v/3-5/docs/gettingstarted)
-and wrote smallest possible test case for the application. I am new to testing in rails and no idea how it works, upon reading the tutorials, it gave me some insights about concepts of behavior-driven development, testing tools like rspec and capybara. Still figuring out how it works though. I am more excited to learn complex testing in the future.  
+and wrote smallest possible test case for the application. I am new to testing in rails and no idea how it works, upon reading the tutorials, it gave me some insights about concepts of behavior-driven development, testing tools like rspec and capybara. Still figuring out how it works though. I am more excited to learn complex testing in the future.
+
+### Day 2: January 05, 2017
+#####
+I wrote a couple of simple test scripts for rails project today. I also updated my Android SDK to the latest version and created a virtual device running Android Nougat. Today, I am also preparing my portfolio page.
