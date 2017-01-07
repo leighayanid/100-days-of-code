@@ -24,4 +24,11 @@ I wrote a couple of simple test scripts for rails project today. I also updated 
 ### Day 3: January 06. 2017
 #####
 **Today's work:**
-I scaffolded a new site for a rails project using [happy_seed](https://github.com/HappyFunCorp/happy_seed) gem and played around with this useful generator which is very similar to yeoman but this time it's for rails. I found this very useful for building out new site quickly, it helped me a lot to generate a lot of bootstrap code with ease from authentication (including social auth) to building and configuring administration of the site. Also today, I revisited Freecodecamp. It's been a while since the last time I dwell on the boot camp, so today I gave it a try again. Continuing learning javascript and it is always feels good to refresh your memory and relearn the basics.   
+I scaffolded a new site for a rails project using [happy_seed](https://github.com/HappyFunCorp/happy_seed) gem and played around with this useful generator which is very similar to yeoman but this time it's for rails. I found this very useful for building out new site quickly, it helped me a lot to generate a lot of bootstrap code with ease from authentication (including social auth) to building and configuring administration of the site. Also today, I revisited Freecodecamp. It's been a while since the last time I dwell on the boot camp, so today I gave it a try again. Continuing learning javascript and it is always feels good to refresh your memory and relearn the basics.
+
+### Day 4. January 07, 2017
+#####
+**Today's progress: **
+Was not able to write code a lot because of sore body after workout. Was able to change minor design details on my portfolio page and fixed some typing errors. 
+**Link to the project: **
+[My Portfolio](http://leighayanid.bitbucket.org). The portfolio is not responsive yet and I need to do a lot of work for the next days. The design is also simple. 
