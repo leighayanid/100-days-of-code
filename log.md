@@ -20,3 +20,8 @@ and wrote smallest possible test case for the application. I am new to testing i
 ### Day 2: January 05, 2017
 #####
 I wrote a couple of simple test scripts for rails project today. I also updated my Android SDK to the latest version and created a virtual device running Android Nougat. Today, I am also preparing my portfolio page.
+
+### Day 3: January 06. 2017
+#####
+**Today's work:**
+I scaffolded a new site for a rails project using [happy_seed](https://github.com/HappyFunCorp/happy_seed) gem and played around with this useful generator which is very similar to yeoman but this time it's for rails. I found this very useful for building out new site quickly, it helped me a lot to generate a lot of bootstrap code with ease from authentication (including social auth) to building and configuring administration of the site. Also today, I revisited Freecodecamp. It's been a while since the last time I dwell on the boot camp, so today I gave it a try again. Continuing learning javascript and it is always feels good to refresh your memory and relearn the basics.   
