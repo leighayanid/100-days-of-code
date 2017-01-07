@@ -28,7 +28,7 @@ I scaffolded a new site for a rails project using [happy_seed](https://github.co
 
 ### Day 4. January 07, 2017
 #####
-**Today's progress: **
+**Today's progress:**
 Was not able to write code a lot because of sore body after workout. Was able to change minor design details on my portfolio page and fixed some typing errors. 
 **Link to the project: **
 [My Portfolio](http://leighayanid.bitbucket.org). The portfolio is not responsive yet and I need to do a lot of work for the next days. The design is also simple. 
