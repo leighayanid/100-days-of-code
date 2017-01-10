@@ -38,3 +38,10 @@ Was not able to write code a lot because of sore body after workout. Was able to
 #####
 **Today's progress:**
 Continued learning sass framework. Learn a bit of mixins and resets. 
+
+### Day 6. January 10, 2017
+#####
+**Today's progress:**
+For today's work, I added facebook and github authentication for a rails project. Set up new applications on Facebook developer console and Github developer page. (Yeah! I'm back on Facebook. duh. )
+[Link on Project](https://github.com/leighayanid/file-cabinet)
+
