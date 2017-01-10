@@ -33,3 +33,8 @@ Was not able to write code a lot because of sore body after workout. Was able to
 #####
 **Link to the project:**
 [My Portfolio](http://leighayanid.bitbucket.org). The portfolio is not responsive yet and I need to do a lot of work for the next days. The design is also simple. 
+
+### Day 5. January 08, 2017
+#####
+**Today's progress:**
+Continued learning sass framework. Learn a bit of mixins and resets. 
