@@ -44,5 +44,13 @@ Continued learning sass framework. Learn a bit of mixins and resets.
 **Today's progress:**
 For today's work, I added facebook and github authentication for a rails project. Set up new applications on Facebook developer console and Github developer page. (Yeah! I'm back on Facebook. duh. )
 #####
-[Link on Project](https://github.com/leighayanid/file-cabinet) FileCabinet
+[Link to the Project](https://github.com/leighayanid/file-cabinet) FileCabinet
+
+### Day 7. January 11, 2017
+#####
+**Today's progress:**
+Continued working on my filecabinet rails project. I worked on styling the administration of the site and also added font awesome for adding icons to the design of the system. Also today I designed a template for my future projects in Photoshop, I did some layout with 12 grid px, planned what fonts to be used and structured color palette for branding.  
+#####
+[Link to the Project](https://github.com/leighayanid/file-cabinet) FileCabinet
+
 
