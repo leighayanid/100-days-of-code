@@ -53,4 +53,9 @@ Continued working on my filecabinet rails project. I worked on styling the admin
 #####
 [Link to the Project](https://github.com/leighayanid/file-cabinet) FileCabinet
 
+### Day 8. January 12, 2017
+#####
+**Today's work:**
+Still working on my rails project. I hard a time to fix this bug in my design with bootstrap-sass. Been working on fixing the height and background color of the navigation. Changing variables of the navbar height and navbar backgorund only takes effect when the user is signed in but won't work on landing page. Weird bug isn't it? Hopefully I fix this issue the next day. SMH.    
+
 
