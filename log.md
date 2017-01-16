@@ -65,3 +65,10 @@ Still working on the front end side of the rails project. Designed the landing p
 ####
 [Link to the Project](https://github.com/leighayanid/file-cabinet) FileCabinet
 
+### Day 10. January 14, 2017 (Saturday)
+#####
+**Today's work:**
+Started to plan out my design for my project list. I also tweaked some design on my portfolio site which I am planning to move here on Github instead on Bitbucket due to cons and design issue on Bitbucket's http connection.
+#####
+[Link to](https://bitbucket.org/leighayanid/leighayanid.bitbucket.org) Portfolio Website
+
