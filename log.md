@@ -71,5 +71,20 @@ Still working on the front end side of the rails project. Designed the landing p
 Started to plan out my design for my project list. I also tweaked some design on my portfolio site which I am planning to move here on Github instead on Bitbucket due to design issue on http connection from Bitbucket's pages. Also this day, I started learning Travis CI which is a continous integration service used to build and test software projects that are hosted on Github. I love the free plan of the service, very thorough and easy to use. Very beginner friendly. 
 #####
 [Link to](https://bitbucket.org/leighayanid/leighayanid.bitbucket.org) Portfolio Website
+#####
 [Link to](https://travis-ci.org) Travis CI
+
+### Day 10 January 16, 2017 (Monday)
+#####
+**Today's work:**
+I was able to write a handful of code this day. Still writing codes for the front end side of my rails project. Changed the route when the user is authenticated.
+#####
+[Link to the Project](https://github.com/leighayanid/file-cabinet) FileCabinet
+
+### Day 11 January 17, 2017 (Tuesday)
+#####
+**Today's work:**
+I decided to refactor some structures on my project. I changed the project from storing simple text documents to specific files - snippets. Also today, I scaffolded new jekyll site for documenting my progress in #100DaysOfCode challenge. 
+
+
 
