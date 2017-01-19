@@ -98,8 +98,6 @@ I did a major refactoring on my file-snippets project. I renamed a lot of code f
 **Today's work:**
 I edited one of my rails project - [Markee](https://github.com/leighayanid/markee). I created a welcome controller with index action to add welcome page to the system and avoid redirecting the user to login page. Also today, I created a new repository for my portfolio site here on Github, with the use of github page. Pushed the code and fix some issues. I found out that using content delivery network on github pages doesn't work, I am not sure why, but it didn't load the project well and stuck on loading page so what I did was I remove all the links from cdn provider in index.html and I downloaded all the css and javascript files from vendor's sites, add them to assets folder and link them to the project again. This time, the project works and I am happy that my portfolio is now working as expected. It is not finish though, I need to add a lot of improvements to it, maybe for the next couple of days. And by the way, I use some code from codepen, so credits to the owners. 
 #####
-[Portfolio Code](https://github.com/leighayanid/leighayanid.github.io)
-#####
-[View my Portfolio](https://leighayanid.github.io)
+[Portfolio Code](https://github.com/leighayanid/leighayanid.github.io) | [View my Portfolio](https://leighayanid.github.io)
 
 
