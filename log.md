@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+<h2> 100 Days Of Code - Log </h2>
 
 ### Day 0: January 03, 2017 (Tuesday)
 ##### 
@@ -74,17 +74,32 @@ Started to plan out my design for my project list. I also tweaked some design on
 #####
 [Link to](https://travis-ci.org) Travis CI
 
-### Day 10 January 16, 2017 (Monday)
+### Day 11 January 16, 2017 (Monday)
 #####
 **Today's work:**
 I was able to write a handful of code this day. Still writing codes for the front end side of my rails project. Changed the route when the user is authenticated.
 #####
 [Link to the Project](https://github.com/leighayanid/file-cabinet) FileCabinet
 
-### Day 11 January 17, 2017 (Tuesday)
+### Day 12 January 17, 2017 (Tuesday)
 #####
 **Today's work:**
 I decided to refactor some structures on my project. I changed the project from storing simple text documents to specific files - snippets. Also today, I scaffolded new jekyll site for documenting my progress in #100DaysOfCode challenge. 
 
+### Day 13 January 18, 2017 (Wednesday)
+#####
+**Today's work:**
+I did a major refactoring on my file-snippets project. I renamed a lot of code from controllers to model and even on some db migration files and struggled a bit in changing the code since that was my first time to perform code refactoring without the help of an IDE. But after an hour of debugging, I was able to run the project successfully.
+#####
+[Link to the Project](https://github.com/leighayanid/file-cabinet) FileCabinet
+
+### Day 14 January 19, 2017 (Thursday)
+#####
+**Today's work:**
+I edited one of my rails project - [Markee](https://github.com/leighayanid/markee). I created a welcome controller with index action to add welcome page to the system and avoid redirecting the user to login page. Also today, I created a new repository for my portfolio site here on Github, with the use of github page. Pushed the code and fix some issues. I found out that using content delivery network on github pages doesn't work, I am not sure why, but it didn't load the project well and stuck on loading page so what I did was I remove all the links from cdn provider in index.html and I downloaded all the css and javascript files from vendor's sites, add them to assets folder and link them to the project again. This time, the project works and I am happy that my portfolio is now working as expected. It is not finish though, I need to add a lot of improvements to it, maybe for the next couple of days. And by the way, I use some code from codepen, so credits to the owners. 
+#####
+[Portfolio Code](https://github.com/leighayanid/leighayanid.github.io)
+#####
+[View my Portfolio](https://leighayanid.github.io)
 
 
