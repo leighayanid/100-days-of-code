@@ -103,7 +103,14 @@ I edited one of my rails project - [Markee](https://github.com/leighayanid/marke
 ### Day 15 January 20, 2017 (Friday)
 #####
 **Today's work**
-Too tired to code today. I was only able to update the dependencies of my sample firebase auth app for Android and read a couple of tutorials about angular 2.  
+Too tired to code today. I was only able to update the dependencies of my sample firebase authentication app for Android and read a couple of tutorials about angular 2.  
 #####
 [Firebase Authentication Sample in Android](https://github.com/leighayanid/firebase-auth-android)
+
+### Day 16 January 21, 2017 (Saturday)
+#####
+**Today's work**
+Continued working on one of my open source project [Markee](https://github.com/leighayanid/markee). I added a jquery plugin called typedjs which is a popular script plugin that adds typing animation, worked a bit with this plugin and then I added a simple header message of the landing page for simple marketing campaign (which I am not good by the way).
+#####
+[Link to the project](https://github.com/leighayanid/markee)
 
