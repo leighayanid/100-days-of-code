@@ -114,3 +114,20 @@ Continued working on one of my open source project [Markee](https://github.com/l
 #####
 [Link to the project](https://github.com/leighayanid/markee)
 
+
+### Day 17-22 January 22,2017(Sunday) to January 28, 2017(Saturday)
+#####
+**Note**
+#####
+I don't know if putting what you have worked for the last 6 days in 1 post is against the rules of #100DaysOfCode challenge or not but hey, I worked for 6 days. I'm having a hard time to post my progress daily on twitter and here on Github because you know, I'm also a human. Just like other person, we need to do errands. Y'know what I mean?
+#####
+**This week's progress**
+For this week, I continued working on my first 2 projects in Rails. I did a lot of refactoring, from controllers to view design. Also I started working on my 3rd rails project which is the clone of Instagram app. Worked on authentication and image uploading of the app this past few days and will be working on styles for the next couple of days. Hopefully I could finish this one by next week, so I could proceed to my next project. I also pushed 2 of my projects on Heroku, and I'm glad I see my work running on production server smoothly. 
+#####
+[Link to the project](https://github.com/leighayanid/markee) Markee
+#####
+[Link to the Project](https://github.com/leighayanid/file-cabinet) FileSnippets
+#####
+[Link to the Project](https://github.com/leighayanid/rails-pictogram) Pictogram
+
+
